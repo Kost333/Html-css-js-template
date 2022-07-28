@@ -21,6 +21,10 @@
     margin-right: 40px;
 }
 
+.mt-40 {
+    margin-top: 40px;
+}
+
 @media (min-width: 1024px) {
     .container {
         padding: 0 80px;
